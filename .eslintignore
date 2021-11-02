@@ -1,0 +1,4 @@
+
+
+# 防止 eslintrc.js 报ts相关错误
+*.js
